@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. code
+2. eat
+3. sleep
+4. repeat
