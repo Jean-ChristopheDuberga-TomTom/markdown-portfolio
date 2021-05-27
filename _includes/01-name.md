@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# JC's GH Learning
+
+bla bla bla
